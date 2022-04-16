@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xts7&label=Profile%20views&color=0e75b6&style=flat" alt="xts7" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/xts7](https://github.com/xts7)
+- 👨‍💻 Go check out my website: [https://jant.codes/](https://jant.codes/)
 
 - 📫 How to reach me **jan.tut.cz@gmail.com**
 
