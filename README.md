@@ -2,4 +2,4 @@
 
 - 👨‍💻 Go check out my website: [https://jant.codes/](https://jant.codes/)
 
-- 📫 How to reach me **jan.tut.cz@gmail.com**
+- 📫 Email me: **jan.tut.cz@gmail.com**
